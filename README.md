@@ -1,2 +1,3 @@
 # hello-word
-开始
+
+Hi,this is a new day!
